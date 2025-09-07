@@ -103,6 +103,7 @@ span {
     cursor: pointer;
     font-size: 2em;
     background-color: white;
+    color:white;
 }
 .text{
     height: 80%;
@@ -168,4 +169,5 @@ span {
         height: 90%;
     }
 }
+
 
