@@ -149,7 +149,7 @@ span {
 }
 @media (max-width:600px) {
     .box{
-        width: 99%;
+        width: 95%;
     }
     .input_box{
         margin: 10px;
@@ -168,3 +168,4 @@ span {
         height: 90%;
     }
 }
+
